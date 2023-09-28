@@ -1,0 +1,15 @@
+package Views;
+
+import Controllers.EmpleadoController;
+
+public class EmpleadoView {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String empleado = new EmpleadoController().createEmpleado("Navarro","Cesar",18,"Masculino",50);
+		String empleado = new EmpleadoController().createEmpleado("Salazar","Carlos",14,"Masculino",30);
+		//String empleado = new EmpleadoController().deleteEmpleado(1);
+		System.out.println(empleado);
+	}
+
+}

@@ -1,0 +1,22 @@
+INDEX VERSION 1.132+D:\ClasesLenguajeProgramacion\Lab1_LPII_T4HN\.metadata\.plugins\org.eclipse.jdt.core
+3192627744.index
+301116073.index
+4241015461.index
+286734297.index
+2680949997.index
+1224422273.index
+1062608355.index
+2419324696.index
+2057481937.index
+671974652.index
+329214434.index
+3255716386.index
+1460792039.index
+1283314963.index
+1197688831.index
+1865797976.index
+2685735372.index
+2934115002.index
+1689253912.index
+2256024858.index
+886529367.index
